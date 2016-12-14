@@ -1,0 +1,4 @@
++--LISTA DE PRODUTOS--+
+ - |Codigo: 1 |NOME: oche  | VALOR COMPRA: 23.0 | VALOR VENDA: 34.0 | INFORMAÇÕES DO PRODUTO: ljlj | INFORMAÇÕES TÉCNICAS: hlhlh
+ - |Codigo: 2 |NOME: slskskd | VALOR COMPRA: 34.0 | VALOR VENDA: 56.0 | INFORMAÇÕES DO PRODUTO: fgfg | INFORMAÇÕES TÉCNICAS: ggg
++------FIM------+
